@@ -23,7 +23,7 @@ devtools::install_github("beadyallen/MGnifyR")
 
 
 ## Basic usage
-For more detailed instructions read the associated function help and vignette (`vignette("MGNifyR")`)
+For more detailed instructions read the associated function help and vignette (`vignette("MGnifyR")`)
 
 ```
 library(MGnifyR)
