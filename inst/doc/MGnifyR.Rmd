@@ -35,7 +35,7 @@ Ben Allen
 
 # Introduction
 
-`MGnifyR` is a package designed to ease access to the EBI's [MGnify](https://www.ebi.ac.uk/metagenomics) resource, allowing  easy searching and retrieval of multiple datasets for downstream analysis. While MGnify pipelines are undoubtadly useful, as currently implemented the pipelines produce results on a stricly per-sample basis. While whole study results are available, comparisons across studies are difficult. The MGnifyR package is specifically designed to facilitate cross-study analyses by handling all the per-sample merging details internally, leaving the user free to perform the analysis as they see fit.
+`MGnifyR` is a package designed to ease access to the EBI's [MGnify](https://www.ebi.ac.uk/metagenomics) resource, allowing  easy searching and retrieval of multiple datasets for downstream analysis. While MGnify pipelines are undoubtedly useful, as currently implemented the pipelines produce results on a strictly per-sample basis. While whole study results are available, comparisons across studies are difficult. The MGnifyR package is specifically designed to facilitate cross-study analyses by handling all the per-sample merging details internally, leaving the user free to perform the analysis as they see fit.
 
 ## Installation
 
